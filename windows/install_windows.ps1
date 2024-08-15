@@ -2,9 +2,8 @@ initial command:
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 
-
-# # Update command:
-# Scoop update
+# Update command:
+Scoop update
 
 scoop bucket add extras
 scoop install extras/vscode
@@ -21,3 +20,4 @@ scoop bucket add nonportable
 scoop install nonportable/wireguard-np
 
 scoop install main/git
+scoop install main/starship
