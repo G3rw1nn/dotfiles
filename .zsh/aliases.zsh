@@ -7,7 +7,7 @@ alias h="helm"
 #alias dt="datree" 
 
 # mac OS shortcuts 
-alias code="open -a 'Visual Studio Code'" 
+#alias code="open -a 'Visual Studio Code'" 
 
 
 ## ALIAS COMMANDS 

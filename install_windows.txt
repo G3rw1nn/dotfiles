@@ -1,0 +1,18 @@
+From Powershell exectute the install scritp via commane:
+
+powershell -file "C:\Users\GerwinVenema\install_windows.ps1"
+
+Scoop package manager; installs apps in dedicate home folder
+list with packages: https://scoop.sh/#/apps
+2 step process; first add bucket, then install app
+
+install:
+keepass
+obsidian
+WSL2
+vscode
+Hack-Nerd font
+Nerd Fonts Symbols
+
+VS-code > settings > font: "hack nerd font", font size: 10
+Terminal (Powershell and distro's): Hack nerd font, size: 10 
