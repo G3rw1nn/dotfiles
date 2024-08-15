@@ -1,4 +1,4 @@
-From Powershell exectute the install scritp via commane:
+Run Powershell as admin and exectute the install scritp via commane:
 
 powershell -file "C:\Users\GerwinVenema\install_windows.ps1"
 
@@ -13,6 +13,8 @@ WSL2
 vscode
 Hack-Nerd font
 Nerd Fonts Symbols
+
+Uninstall app: scoop uninstall <appname>
 
 VS-code > settings > font: "hack nerd font", font size: 10
 Terminal (Powershell and distro's): Hack nerd font, size: 10 
