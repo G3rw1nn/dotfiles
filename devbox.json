@@ -6,18 +6,14 @@
     "teller@latest",
     "gh@latest",
     "gum@latest",
-    "stow@latest",
+    "stow@latest"
   ],
   "shell": {
     "init_hook": [
       "autoload -Uz compinit",
       "compinit",
-      "source <(kubectl completion zsh)",
+      "source <(kubectl completion zsh)"
     ],
-    "scripts": {
-      "test": [
-        "echo \"Error: no test specified\" && exit 1",
-      ],
-    },
-  },
+    "scripts": {}
+  }
 }
