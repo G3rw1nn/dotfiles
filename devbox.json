@@ -5,7 +5,8 @@
     "kubernetes-helm@latest",
     "teller@latest",
     "gh@latest",
-    "gum@latest"
+    "gum@latest",
+    "stow@latest",
   ],
   "shell": {
     "init_hook": [
@@ -15,8 +16,8 @@
     ],
     "scripts": {
       "test": [
-        "echo \"Error: no test specified\" && exit 1"
-      ]
-    }
-  }
+        "echo \"Error: no test specified\" && exit 1",
+      ],
+    },
+  },
 }

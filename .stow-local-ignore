@@ -4,3 +4,12 @@ install_macos.sh
 .git
 install_windows.ps1
 install_windows.txt
+devbox.*
+
+/.devbox
+/.gitignore
+/.teller.yml
+/devbox.*
+/gcloud
+/install.sh
+/.git
