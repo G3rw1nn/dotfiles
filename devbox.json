@@ -6,7 +6,8 @@
     "teller@latest",
     "gh@latest",
     "gum@latest",
-    "stow@latest"
+    "stow@latest",
+    "zsh@latest"
   ],
   "shell": {
     "init_hook": [
