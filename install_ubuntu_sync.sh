@@ -2,7 +2,7 @@
 
 # teller env >.config/fabric/.env
 
-#rm ~/.zshrc
+rm ~/.zshrc
 
 stow .
 

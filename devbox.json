@@ -7,7 +7,9 @@
     "gh@latest",
     "gum@latest",
     "stow@latest",
-    "zsh@latest"
+    "zsh@latest",
+    "terraform@latest",
+    "fzf@latest"
   ],
   "shell": {
     "init_hook": [
