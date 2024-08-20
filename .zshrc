@@ -8,7 +8,9 @@ DEVBOX_NO_PROMPT=true
 eval "$(devbox global shellenv --init-hook)"
 
 # Git
-LANG=en_US.UTF-8
+# LANG=en_US.UTF-8
+# LC_CTYPE=en_US.UTF-8
+# LC_ALL=en_US.UTF-8
 
 # Completions
 source <(devbox completion zsh)
