@@ -1,6 +1,54 @@
 {
   "lockfile_version": "1",
   "packages": {
+    "k3sup@latest": {
+      "last_modified": "2024-08-18T12:44:29Z",
+      "resolved": "github:NixOS/nixpkgs/ff1c2669bbb4d0dd9e62cc94f0968cfa652ceec1#k3sup",
+      "source": "devbox-search",
+      "version": "0.13.6",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/q0g9znawayajbh7x9h2fnl9isc0hxbm7-k3sup-0.13.6",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/q0g9znawayajbh7x9h2fnl9isc0hxbm7-k3sup-0.13.6"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/4lzsmny794wfrm5dg3hz88v4wlc2w9gp-k3sup-0.13.6",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/4lzsmny794wfrm5dg3hz88v4wlc2w9gp-k3sup-0.13.6"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/vpz856sqlvxx74pmwlayiiygm8xabqj9-k3sup-0.13.6",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/vpz856sqlvxx74pmwlayiiygm8xabqj9-k3sup-0.13.6"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/6kbj43739hxlycnn4ffab6vh3az4ahkb-k3sup-0.13.6",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/6kbj43739hxlycnn4ffab6vh3az4ahkb-k3sup-0.13.6"
+        }
+      }
+    },
     "kubectl@latest": {
       "last_modified": "2024-07-31T08:48:38Z",
       "resolved": "github:NixOS/nixpkgs/c3392ad349a5227f4a3464dce87bcc5046692fce#kubectl",

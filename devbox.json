@@ -5,7 +5,8 @@
     "kubernetes-helm@latest",
     "teller@latest",
     "stow@latest",
-    "terraform@latest"
+    "terraform@latest",
+    "k3sup@latest"
   ],
   "shell": {
     "init_hook": [
