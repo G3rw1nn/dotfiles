@@ -4,12 +4,8 @@
     "kubectl@latest",
     "kubernetes-helm@latest",
     "teller@latest",
-    "gh@latest",
-    "gum@latest",
     "stow@latest",
-    "zsh@latest",
-    "terraform@latest",
-    "fzf@latest"
+    "terraform@latest"
   ],
   "shell": {
     "init_hook": [

@@ -6,3 +6,12 @@ brew install starship
 
 # # Install Stow
 # brew install stow
+
+# install eza https://github.com/eza-community/eza
+brew install eza
+
+# install fuzzy finder https://github.com/junegunn/fzf
+brew install fzf
+
+# install bat https://github.com/sharkdp/bat
+brew install bat
