@@ -6,7 +6,8 @@
     "teller@latest",
     "stow@latest",
     "terraform@latest",
-    "k3sup@latest"
+    "k3sup@latest",
+    "kubevirt@latest"
   ],
   "shell": {
     "init_hook": [

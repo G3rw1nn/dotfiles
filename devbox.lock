@@ -181,6 +181,54 @@
         }
       }
     },
+    "kubevirt@latest": {
+      "last_modified": "2024-08-14T11:41:26Z",
+      "resolved": "github:NixOS/nixpkgs/0cb2fd7c59fed0cd82ef858cbcbdb552b9a33465#kubevirt",
+      "source": "devbox-search",
+      "version": "1.2.2",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/hvg57xc2w5zp7qcp2c5dws28spalpknl-kubevirt-1.2.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/hvg57xc2w5zp7qcp2c5dws28spalpknl-kubevirt-1.2.2"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/4a2nji807iywzzdn6d5mxib6znkff89x-kubevirt-1.2.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/4a2nji807iywzzdn6d5mxib6znkff89x-kubevirt-1.2.2"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/n86phljkw1d26rlia385nv1mzlfawdjm-kubevirt-1.2.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/n86phljkw1d26rlia385nv1mzlfawdjm-kubevirt-1.2.2"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/zpaf84jah95gmipgv415xv3r7ysi1jh3-kubevirt-1.2.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/zpaf84jah95gmipgv415xv3r7ysi1jh3-kubevirt-1.2.2"
+        }
+      }
+    },
     "stow@latest": {
       "last_modified": "2024-07-31T08:48:38Z",
       "resolved": "github:NixOS/nixpkgs/c3392ad349a5227f4a3464dce87bcc5046692fce#stow",
